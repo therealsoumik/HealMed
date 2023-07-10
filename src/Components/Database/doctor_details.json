@@ -1,0 +1,73 @@
+[
+    {
+      "id": 1,
+      "name": "Dr. Rajesh Gupta",
+      "specialization": "Cardiology",
+      "contact_number": "+1234567890",
+      "email": "rajeshgupta@example.com"
+    },
+    {
+      "id": 2,
+      "name": "Dr. Priya Patel",
+      "specialization": "Dermatology",
+      "contact_number": "+9876543210",
+      "email": "priyapatel@example.com"
+    },
+    {
+      "id": 3,
+      "name": "Dr. Naveen Sharma",
+      "specialization": "Orthopedics",
+      "contact_number": "+1122334455",
+      "email": "naveensharma@example.com"
+    },
+    {
+      "id": 4,
+      "name": "Dr. Aishwarya Desai",
+      "specialization": "Gynecology",
+      "contact_number": "+9988776655",
+      "email": "aishwaryadesai@example.com"
+    },
+    {
+      "id": 5,
+      "name": "Dr. Anand Verma",
+      "specialization": "Neurology",
+      "contact_number": "+3344556677",
+      "email": "anandverma@example.com"
+    },
+    {
+      "id": 6,
+      "name": "Dr. Sneha Bhatia",
+      "specialization": "Pediatrics",
+      "contact_number": "+8899001122",
+      "email": "snehabhatia@example.com"
+    },
+    {
+      "id": 7,
+      "name": "Dr. Arjun Kapoor",
+      "specialization": "Ophthalmology",
+      "contact_number": "+7766554433",
+      "email": "arjunkapoor@example.com"
+    },
+    {
+      "id": 8,
+      "name": "Dr. Jaya Singh",
+      "specialization": "Psychiatry",
+      "contact_number": "+5544332211",
+      "email": "jayasingh@example.com"
+    },
+    {
+      "id": 9,
+      "name": "Dr. Rahul Joshi",
+      "specialization": "Urology",
+      "contact_number": "+1122334455",
+      "email": "rahuljoshi@example.com"
+    },
+    {
+      "id": 10,
+      "name": "Dr. Pooja Mehta",
+      "specialization": "Dentistry",
+      "contact_number": "+6677889900",
+      "email": "poojamehta@example.com"
+    }
+  ]
+  
